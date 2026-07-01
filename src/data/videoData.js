@@ -6,78 +6,66 @@ const createVideo = (title, videoId) => ({
 
 const videoData = {
   podcast: [
-    createVideo("Podcast 1", "kDYMizH73cc"),
-    createVideo("Podcast 2", "xOl7HTXuLvk"),
-    createVideo("Podcast 3", "K-Q4r37XgVw"),
-    createVideo("Podcast 4", "SwQhKFMxmDY"),
+    createVideo("Podcast 1", "r_k06oAcGMQ"),
+    createVideo("Podcast 2", "ZfokiGfM4Wk"),
+    createVideo("Podcast 3", "rTLRntH2KYQ"),
+    createVideo("Podcast 4", "3qTRLIbA1-0"),
   ],
 
   shorts: [
-    createVideo("YouTube Shorts 1", "x66jV24dsBs"),
-    createVideo("YouTube Shorts 2", "aYCjAqQ8Xt4"),
-    createVideo("YouTube Shorts 3", "_vp5-xMllwY"),
-    createVideo("YouTube Shorts 4", "Fxbs75KDxO4"),
+    createVideo("YouTube Shorts 1", "hndUh1Rz3UI"),
+    createVideo("YouTube Shorts 2", "wkD3kBK-tFw"),
+    createVideo("YouTube Shorts 3", "J7eQf-QRt1Q"),
+    createVideo("YouTube Shorts 4", "yphkNys8CeY"),
+    createVideo("YouTube Shorts 5", "8WPZ5DYhqwY"),
+    createVideo("YouTube Shorts 6", "d7bceQ8A35Q"),
   ],
 
-  weddingHighlight: [
-    createVideo("Wedding Highlight 1", "3wDnIk5tuwY"),
-    createVideo("Wedding Highlight 2", "mrobdVDb8B4"),
-    createVideo("Wedding Highlight 3", "X_ib393Sq8E"),
-    createVideo("Wedding Highlight 4", "WnCV08DG7u4"),
-  ],
+  // weddingHighlight: [
+  //   No new videos provided
+  // ],
 
   eventHighlight: [
-    createVideo("Event Highlight 1", "FpszfOmdwJo"),
-    createVideo("Event Highlight 2", "gQOi4mvdaW0"),
-    createVideo("Event Highlight 3", "Wz3CgeSmGX8"),
-    createVideo("Event Highlight 4", "MpX-Gx091a8"),
+    createVideo("Event Highlight 1", "yI-9Aebr0zM"),
+    createVideo("Event Highlight 2", "frjrwpfL3i8"),
+    createVideo("Event Highlight 3", "hPuFGuv746Q"),
   ],
 
-  testimonial: [
-    createVideo("Testimonial 1", "Uf4JAss1vEo"),
-    createVideo("Testimonial 2", "tOwjEOt1zYU"),
-    createVideo("Testimonial 3", "8LSt8_11wbQ"),
-    createVideo("Testimonial 4", "lCB4DeOestg"),
-  ],
+  // testimonial: [
+  //   No new videos provided
+  // ],
 
   realEstate: [
-    createVideo("Real Estate Video 1", "y9j-BL5ocW8"),
-    createVideo("Real Estate Video 2", "vwgcKspm868"),
-    createVideo("Real Estate Video 3", "3H6Evu2hPpE"),
-    createVideo("Real Estate Video 4", "-xVW8qjZLPs"),
+    createVideo("Real Estate Video 1", "uoqQlyKLmA8"),
   ],
 
   youtubeTalkingHead: [
-    createVideo("Talking Head 1", "lyLEBnUTqJI"),
-    createVideo("Talking Head 2", "ZOWeLxkO3v8"),
-    createVideo("Talking Head 3", "JhmyNySOx7s"),
-    createVideo("Talking Head 4", "pvHLbuwMvAw"),
+    createVideo("Talking Head 1", "_0OOBCVO4Rg"),
+    createVideo("Talking Head 2", "3f0lOe65ZBU"),
+    createVideo("Talking Head 3", "jgvJuzoRLkw"),
   ],
 
-  speakerPromo: [
-    createVideo("Speaker Promo 1", "YoPzN6_GXM8"),
-    createVideo("Speaker Promo 2", "bcPKB4RbRuc"),
-  ],
+  // speakerPromo: [
+  //   No new videos provided
+  // ],
 
-  weddingVideos: [
-    createVideo("Wedding Video 1", "VLkAMQhx7GY"),
-    createVideo("Wedding Video 2", "gaKiJE2C8Tk"),
-    createVideo("Wedding Video 3", "1ADhe5hbNd8"),
-    createVideo("Wedding Video 4", "aVXNx9oMRPI"),
-  ],
+  // weddingVideos: [
+  //   No new videos provided
+  // ],
 
   educational: [
-    createVideo("Educational Video 1", "jMhhaAQK1NQ"),
-    createVideo("Educational Video 2", "UBOdxLw-Ebg"),
-    createVideo("Educational Video 3", "n2OFMpk2H-o"),
-    createVideo("Educational Video 4", "LXYjFsuVOoc"),
+    createVideo("Educational Video 1", "Y-LaV38ru4E"),
+    createVideo("Educational Video 2", "jgvJuzoRLkw"),
+    createVideo("Educational Video 3", "3f0lOe65ZBU"),
+    createVideo("Educational Video 4", "ABiMZyvWfp8"),
   ],
 
   generalEditing: [
-    createVideo("General Editing 1", "RhY5Zke4vmM"),
-    createVideo("General Editing 2", "05f8sG4OhZs"),
-    createVideo("General Editing 3", "-FnrCZJw6TE"),
-    createVideo("General Editing 4", "ftwISgKr2dA"),
+    createVideo("General Editing 1", "Y-LaV38ru4E"),
+    createVideo("General Editing 2", "ABiMZyvWfp8"),
+    createVideo("General Editing 3", "xjwi-v63fLE"),
+    createVideo("General Editing 4", "_0OOBCVO4Rg"),
+    createVideo("General Editing 5", "FMF5uzVZgWs"),
   ],
 };
 

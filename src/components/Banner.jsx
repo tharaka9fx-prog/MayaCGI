@@ -6,19 +6,19 @@ const socialLinks = [
   {
     icon: wa,
     label: "Whatsapp",
-    href: "https://wa.me/your-number",
+    href: "https://wa.me/94703169111",
     alt: "WhatsApp",
   },
   {
     icon: fb,
     label: "Facebook",
-    href: "https://facebook.com/your-page",
+    href: "https://www.facebook.com/themayacgi",
     alt: "Facebook",
   },
   {
     icon: yt,
     label: "YouTube",
-    href: "https://youtube.com/your-channel",
+    href: "https://www.youtube.com/@themayacgi/videos",
     alt: "YouTube",
   },
 ];

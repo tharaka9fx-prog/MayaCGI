@@ -3,13 +3,13 @@ import React from "react";
 const categories = [
   { key: "podcast", label: "Podcast" },
   { key: "shorts", label: "YouTube Shorts" },
-  { key: "weddingHighlight", label: "Wedding Highlight" },
+  // { key: "weddingHighlight", label: "Wedding Highlight" },
   { key: "eventHighlight", label: "Event Highlight" },
-  { key: "testimonial", label: "Testimonial" },
+  // { key: "testimonial", label: "Testimonial" },
   { key: "realEstate", label: "Real Estate Videos" },
   { key: "youtubeTalkingHead", label: "YouTube Talking Head" },
-  { key: "speakerPromo", label: "Speaker Promo" },
-  { key: "weddingVideos", label: "Wedding Videos" },
+  // { key: "speakerPromo", label: "Speaker Promo" },
+  // { key: "weddingVideos", label: "Wedding Videos" },
   { key: "educational", label: "Educational Videos" },
   { key: "generalEditing", label: "General Video Editing" },
 ];

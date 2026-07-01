@@ -34,10 +34,8 @@ const HeroSection = () => {
 
         {/* Description */}
         <p className="text-gray-400 mt-3 sm:mt-4 max-w-xl text-sm sm:text-base leading-relaxed">
-          Our editing style covers everything from social media reels and
-          podcasts to event highlights. AI videos, motion graphics, and
-          graphic design crafted to turn raw footage into powerful visual
-          experiences.
+          Explore our video editing work, covering everything from social media reels and podcasts to event highlights, 
+          AI-generated videos, motion graphics, and graphic design—crafted to turn raw footage into powerful visual experiences.
         </p>
       </div>
     </section>
